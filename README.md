@@ -73,7 +73,7 @@ h1 {
 ```
 
 If you see your `<h1>` change to red, you've linked your style sheet correctly!
-Don't forget to delete it once you have your link working.
+Don't forget to delete it once you hastyleve your link working.
 
 ## Write CSS Rules to Style HTML
 
